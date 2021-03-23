@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gsap-react-app/static/css/main.2011cca6.chunk.css",
+    "main.js": "/gsap-react-app/static/js/main.bbd6e6d2.chunk.js",
+    "main.js.map": "/gsap-react-app/static/js/main.bbd6e6d2.chunk.js.map",
+    "runtime-main.js": "/gsap-react-app/static/js/runtime-main.d99ce5db.js",
+    "runtime-main.js.map": "/gsap-react-app/static/js/runtime-main.d99ce5db.js.map",
+    "static/js/2.8b594ab6.chunk.js": "/gsap-react-app/static/js/2.8b594ab6.chunk.js",
+    "static/js/2.8b594ab6.chunk.js.map": "/gsap-react-app/static/js/2.8b594ab6.chunk.js.map",
+    "static/js/3.8e24f435.chunk.js": "/gsap-react-app/static/js/3.8e24f435.chunk.js",
+    "static/js/3.8e24f435.chunk.js.map": "/gsap-react-app/static/js/3.8e24f435.chunk.js.map",
+    "index.html": "/gsap-react-app/index.html",
+    "static/css/main.2011cca6.chunk.css.map": "/gsap-react-app/static/css/main.2011cca6.chunk.css.map",
+    "static/js/2.8b594ab6.chunk.js.LICENSE.txt": "/gsap-react-app/static/js/2.8b594ab6.chunk.js.LICENSE.txt",
+    "static/media/arrow-right.94dbe206.svg": "/gsap-react-app/static/media/arrow-right.94dbe206.svg",
+    "static/media/boy.47b15750.webp": "/gsap-react-app/static/media/boy.47b15750.webp",
+    "static/media/girl.76f6c00d.webp": "/gsap-react-app/static/media/girl.76f6c00d.webp",
+    "static/media/people.58d3eb37.webp": "/gsap-react-app/static/media/people.58d3eb37.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d99ce5db.js",
+    "static/js/2.8b594ab6.chunk.js",
+    "static/css/main.2011cca6.chunk.css",
+    "static/js/main.bbd6e6d2.chunk.js"
+  ]
+}
