@@ -8,7 +8,7 @@ import {
 import ImagePage from "./ImagePage"
 import Landing from "./LandingPage"
 
-function App() {
+function App() { 
 
   return (
     <Router>
