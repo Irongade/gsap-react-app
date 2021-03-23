@@ -11,7 +11,7 @@ import Landing from "./LandingPage"
 function App() { 
 
   return (
-    <Router basename={window.location.pathname || ''}>
+    <Router basename={window.location.pathname || ''}> 
       <Switch>
       <Route exact path="/" component={Landing} />
 
